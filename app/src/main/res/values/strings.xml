@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="title_example">Titleeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee</string>
+    <string name="priority_example">1</string>
+    <string name="description_example">Description</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="priority">Priority</string>
+    <string name="save">Save</string>
+    <string name="save_note">Save note</string>
+    <string name="insert_data">Insert data</string>
+    <string name="unknown">Unknown</string>
+    <string name="note_not_saved">Note not saved</string>
+    <string name="note_saved">Note saved</string>
+    <string name="note_deleted">Note deleted</string>
+    <string name="delete_all_notes">Delete all notes</string>
+    <string name="all_notes_deleted">All notes deleted</string>
+    <string name="edit_note">Edit note</string>
+    <string name="note_updated">Note updated</string>
+    <string name="error">Error</string>
+    <string name="note_not_edited">Note not edited</string>
+</resources>
